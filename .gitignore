@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+#过滤 Android Studio 的一些配置文件
+My_Blog.iml
+/.idea
